@@ -6,11 +6,17 @@
 ## Introduction
 * https://youtu.be/3tfv2EeYeQY
 
-## Online Labs
-## Download Code
 ## Applications in Face Processing
+* https://youtu.be/PksoH8gJQFA
+* https://disruptionhub.com/5-applications-facial-recognition-technology/ 
+* https://www.researchgate.net/topic/Face-Processing
+* https://liris.cnrs.fr/Documents/Liris-6086.pdf
 ## Facial Landmark Detection using Dlib
+* https://youtu.be/qs6PEdKl-MM
+
 ## Application - Face Alignment
+* https://youtu.be/cp6e-f11Cn4
+
 ## Improving the Facial Landmark Detector
 ## Facial Landmark Detection Theory
 ## Training a custom Landmark Detector
