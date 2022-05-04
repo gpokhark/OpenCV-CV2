@@ -11,13 +11,29 @@
 * https://disruptionhub.com/5-applications-facial-recognition-technology/ 
 * https://www.researchgate.net/topic/Face-Processing
 * https://liris.cnrs.fr/Documents/Liris-6086.pdf
+
 ## Facial Landmark Detection using Dlib
 * https://youtu.be/qs6PEdKl-MM
+* https://youtu.be/cp6e-f11Cn4
+* http://blog.dlib.net/2014/08/real-time-face-pose-estimation.html
+* http://dlib.net/face_landmark_detection_ex.cpp.html
+* http://dlib.net/face_landmark_detection.py.html
+* http://www.learnopencv.com/facial-landmark-detection
+* http://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python
+* https://developers.google.com/vision/
+* https://www.youtube.com/watch?v=MrRGVOhARYY
+* https://towardsdatascience.com/facial-mapping-landmarks-with-dlib-python-160abcf7d672
+* https://pypi.org/project/face-alignment/
 
 ## Application - Face Alignment
-* https://youtu.be/cp6e-f11Cn4
+* https://youtu.be/fiARkGzniWs
+* https://melgor.github.io/blcv.github.io/static/2017/12/28/demystifying-face-recognition-iii-face-preprocessing/
+* https://github.com/luoyetx/face-alignment-at-3000fps
+* https://towardsdatascience.com/precise-face-alignment-with-opencv-dlib-e6c8acead262
 
 ## Improving the Facial Landmark Detector
+* https://youtu.be/JnKzCPVR4PQ
+
 ## Facial Landmark Detection Theory
 ## Training a custom Landmark Detector
 
