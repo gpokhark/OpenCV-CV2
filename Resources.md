@@ -33,6 +33,13 @@
 
 ## Improving the Facial Landmark Detector
 * https://youtu.be/JnKzCPVR4PQ
+* https://youtu.be/bkaQgqRtgU0
+* https://youtu.be/9UdozR-jPgk
+* https://en.wikipedia.org/wiki/Moving_average
+* http://www.analog.com/media/en/technical-documentation/dsp-book/dsp_book_Ch15.pdf
+* https://en.wikipedia.org/wiki/Lucas%E2%80%93Kanade_method
+* https://en.wikipedia.org/wiki/Kanade%E2%80%93Lucas%E2%80%93Tomasi_feature_tracker
+* https://en.wikipedia.org/wiki/Kalman_filter
 
 ## Facial Landmark Detection Theory
 ## Training a custom Landmark Detector
